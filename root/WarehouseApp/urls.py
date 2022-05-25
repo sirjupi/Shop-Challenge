@@ -1,6 +1,5 @@
 from django.urls import re_path
 from WarehouseApp import views
-
 from django.conf.urls.static import static
 
 urlpatterns = [
